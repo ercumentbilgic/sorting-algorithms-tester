@@ -30,17 +30,15 @@ Setting up and running the project on your local machine is straightforward.
 
 1.  **Clone (or Download) the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    git clone [https://github.com/ercumentbilgic/sorting-algorithms-tester.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
     cd YOUR_REPO_NAME
     ```
-    *(Remember to replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub username and repository name.)*
 
 2.  **Compile the Code:**
     Once inside the repository directory, compile the code using GCC:
     ```bash
-    gcc your_c_file_name.c -o sorting_tool
+    gcc main.c -o sorting_tool
     ```
-    *(Replace `your_c_file_name.c` with the actual name of your C source file, e.g., `9.c`. The `-o sorting_tool` part specifies the name of the executable output file.)*
 
 3.  **Run the Program:**
     After successful compilation, you can start the program with the following command:
