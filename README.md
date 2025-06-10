@@ -30,8 +30,8 @@ Setting up and running the project on your local machine is straightforward.
 
 1.  **Clone (or Download) the Repository:**
     ```bash
-    git clone [https://github.com/ercumentbilgic/sorting-algorithms-tester.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-    cd YOUR_REPO_NAME
+    git clone [https://github.com/ercumentbilgic/sorting-algorithms-tester.git]
+    cd sorting-algorithms-tester
     ```
 
 2.  **Compile the Code:**
